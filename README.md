@@ -18,4 +18,5 @@ g++ nvm_buffer_store.cpp -o nvm_buffer_store -march=native -std=c++11
 ./nvm_buffer_store
 ```
 ![store](./res/store.png)
+
 The store results are confusing.
